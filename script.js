@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const groupLink = "https://chat.whatsapp.com/XXXXXXX";
     
     // Nomor WhatsApp Louis
-    const louisWhatsApp = "6282231324743";
+    const louisWhatsApp = "6287717274346";
 
     joinButton.addEventListener("click", function (event) {
         event.preventDefault();
