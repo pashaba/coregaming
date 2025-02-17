@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         
         if (selectedRank) {
             const rankName = selectedRank.value;
-            const message = `Halo Louis, saya ingin membeli ${rankName} di CoreGaming SMP. Bagaimana cara pembayarannya?`;
+            const message = `buyrank saya ingin membeli rank ${rankName} `;
 
             // Format link WhatsApp
             const waLink = `https://wa.me/${louisWhatsApp}?text=${encodeURIComponent(message)}`;
